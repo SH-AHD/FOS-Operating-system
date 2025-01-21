@@ -3,7 +3,7 @@
 
 FOS is an educational operating system developed for the Operating Systems Course (CSW355) at Ain Shams University. Forked and refactored from MIT's Operating Systems Lab 6.828, it is designed as a simplified implementation to demonstrate core OS concepts. 
 
-This project provides a hands-on approach to understanding the workings of an operating system, with features like memory management, CPU scheduling, and fault handling. It was created under the guidance of Dr. Ahmed Salah to serve as a practical educational tool.
+This project was a collaborative effort by a team of ###six students, each contributing to different modules and functionalities, under the guidance of Dr. Ahmed Salah. It serves as a practical educational tool to provide hands-on experience with operating system concepts.
 
 # Modules
 
